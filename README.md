@@ -1,5 +1,6 @@
 # Unreal_FFX
 Recreating FFX in UE5 (Attempting LOL) 
+<br>Kanban Board: [https://tree.taiga.io/project/nehag991-unreal-ffx/timeline](https://tree.taiga.io/project/nehag991-unreal-ffx/timeline)
 <br>Assets are either from Quixel Bridge
 <br>Or building assets using Blender and Quixel Mixer
 <br>ONLY BLUEPRINT PROJECT
