@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.4",
+	"EngineAssociation": "5.5",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -33,10 +33,6 @@
 		},
 		{
 			"Name": "ApexDestruction",
-			"Enabled": true
-		},
-		{
-			"Name": "RefreshAllNodes",
 			"Enabled": true
 		},
 		{
